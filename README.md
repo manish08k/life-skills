@@ -8,7 +8,7 @@ Life Skills Track submissions for MountBlue.
 
 ## Submissions
 
-- [x] [Email Communication](./email-communication.md)
+- [x] [Email Communication](https://github.com/manish08k/life-skills/blob/main/email-communication.md)
 - [x] [Technical Paper – Event Sourcing](https://github.com/manish08k/technical-papers/blob/main/event-sourcing.md)
 - [ ] Learning Process
 - [ ] Listening and Assertive Communication
